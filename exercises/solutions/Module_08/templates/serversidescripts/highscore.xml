@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<highscore>
+	<player>
+    	<name>Mr Smith</name>
+    	<score>1</score>
+    	<longitude>20.0</longitude>
+    	<latitude>20.0</latitude>
+	</player>
+</highscore>
